@@ -1,5 +1,4 @@
 # Project 4 : Password Validation
-# by Sunil
 
 import random
 
