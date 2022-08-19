@@ -1,5 +1,5 @@
 # Project 4 : Password Validation
-# by Sunil Pandit
+
 
 from user import User
 import pickle
